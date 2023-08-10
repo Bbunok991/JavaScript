@@ -1,0 +1,9 @@
+body{
+  background: black url(content/Solid_black.svg.png);
+  color: white;
+}
+
+p{
+  text-align: justify;
+  border: 1px solid purple;
+}
